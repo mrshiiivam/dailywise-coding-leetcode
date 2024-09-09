@@ -38,7 +38,7 @@ The repository is organized as follows:
 
 | Problem Name               | Difficulty | Solution Link                     |
 |----------------------------|------------|-----------------------------------|
-| Two Sum                    | Easy       | [Solution](./LeetCode_Problems/Two_Sum/solution.cpp) |
+| Two Sum                    | Easy       | [Solution](https://leetcode.com/problems/two-sum/description/) |
 | Longest Substring Without Repeating Characters | Medium    | [Solution](./LeetCode_Problems/Longest_Substring/solution.cpp) |
 
 ## Topics Covered
